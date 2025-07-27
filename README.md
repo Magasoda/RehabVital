@@ -2,6 +2,8 @@
 
 # RehabVital
 Fuente confiable de información actualizada acerca de test y medidas adecuados, conceptos y términos clave para hacer de la evaluación fisioterapeuta más plena en la relación médico-paciente.
+
+Somos un grupo de Fisioterapeutas en formación interesados y comprometidos en el aprendizaje, colaboración y crecimiento profesional. Nuestro objetivo es construir una red de apoyo académico donde cada integrante realice un aporte desde su proceso hasta su practica clínica con una humanización del cuidado como pilar ético de la profesión.
 # ¿Qué es la fisioterapia?👩‍⚕️
 Disciplina que se encarga de prevenir, tratar y rehabilitar lesiones o disfunciones del cuerpo humano mediante la aplicación de agentes fisicos.
 # ¿Como hacer una buena evaluación fisioterapeutica?
